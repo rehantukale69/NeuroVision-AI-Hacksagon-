@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+monai_env/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+# Model checkpoints
+*.pt
+*.pth
+
+# dataset folders
+data/
+datasets/
